@@ -3,7 +3,8 @@ package dynv6
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/libdns/dynv6"
+	// "github.com/libdns/dynv6"
+	dynv6 "github.com/sstamoulis/libdns"
 )
 
 // Provider wraps the provider implementation as a Caddy module.
