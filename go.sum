@@ -628,8 +628,8 @@ github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An
 github.com/spf13/viper v1.0.2/go.mod h1:A8kyI5cUJhb8N+3pkfONlcEcZbueH6nhAm0Fq7SrnBM=
 github.com/spf13/viper v1.3.2/go.mod h1:ZiWeW+zYFKm7srdB9IoDzzZXaJaI5eL9QjNiN/DMA2s=
 github.com/spf13/viper v1.6.1/go.mod h1:t3iDnF5Jlj76alVNuyFBk5oUMCvsrkbvZK0WQdfDi5k=
-github.com/sstamoulis/libdns v0.1.1-0.20210216204437-e961fa5efa46 h1:TWVPyUE/y/OxXU5bGsDUNw6aMbEXR2aUFgTsStSZHhs=
-github.com/sstamoulis/libdns v0.1.1-0.20210216204437-e961fa5efa46/go.mod h1:FHz4EXEa9K0I475lKiCGQXwacPQi0TwOvURVi91saZE=
+github.com/sstamoulis/libdns v0.1.1-0.20210217150015-d30918e26367 h1:bOpjJBT7A2ke+XijFAb9f6wBh0MobEdtuqWwet6NbfE=
+github.com/sstamoulis/libdns v0.1.1-0.20210217150015-d30918e26367/go.mod h1:FHz4EXEa9K0I475lKiCGQXwacPQi0TwOvURVi91saZE=
 github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
 github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
 github.com/streadway/handy v0.0.0-20190108123426-d5acb3125c2a/go.mod h1:qNTQ5P5JnDBl6z3cMAg/SywNDC5ABu5ApDIw6lUbRmI=
